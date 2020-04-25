@@ -1,0 +1,23 @@
+{
+  "name": "nodejsfiledownloader",
+  "version": "1.0.0",
+  "description": "\"A simple code which takes as an input a pdf file, reads all the url in the pdf and download the url\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajbhandari08/nodejsFileDownloader.git"
+  },
+  "author": "Pankaj singh bhandari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajbhandari08/nodejsFileDownloader/issues"
+  },
+  "homepage": "https://github.com/pankajbhandari08/nodejsFileDownloader#readme",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "pdfreader": "^1.0.6"
+  }
+}
